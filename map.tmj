@@ -906,7 +906,7 @@
         {
          "columns":14,
          "firstgid":2956,
-         "image":"..\/..\/..\/Downloads\/scifitiles-sheet.png",
+         "image":"tilesets\/scifitiles-sheet.png",
          "imageheight":192,
          "imagewidth":448,
          "margin":0,
@@ -919,7 +919,7 @@
         {
          "columns":48,
          "firstgid":3040,
-         "image":"..\/..\/..\/Downloads\/Space Sprites\/Space.png",
+         "image":"tilesets\/Space.png",
          "imageheight":1536,
          "imagewidth":1536,
          "margin":0,
@@ -932,7 +932,7 @@
         {
          "columns":4,
          "firstgid":5344,
-         "image":"..\/..\/..\/Downloads\/Space Sprites\/Planet7.png",
+         "image":"tilesets\/Planet7.png",
          "imageheight":150,
          "imagewidth":150,
          "margin":0,
@@ -945,7 +945,7 @@
         {
          "columns":16,
          "firstgid":5360,
-         "image":"..\/..\/..\/Downloads\/ships.png",
+         "image":"tilesets\/ships.png",
          "imageheight":3328,
          "imagewidth":512,
          "margin":0,
