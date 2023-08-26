@@ -906,7 +906,7 @@
         {
          "columns":14,
          "firstgid":2956,
-         "image":"tilesets\/scifitiles-sheet.png",
+         "image":"..\/..\/..\/Downloads\/scifitiles-sheet.png",
          "imageheight":192,
          "imagewidth":448,
          "margin":0,
