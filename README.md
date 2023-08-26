@@ -1,4 +1,4 @@
-# WorkAdventure Map Starter Kit
+# EscapeShip
 
 ![map](./map.png)
 
