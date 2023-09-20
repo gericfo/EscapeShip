@@ -93,14 +93,14 @@ function updateMap() {
 
     displayButtons();
 
-    if (nbRedPressed >= 2) {
+    if (nbRedPressed >= 1) {
         WA.room.showLayer('doors/red_door_opened');
         WA.room.hideLayer('doors/red_door_closed');
     } else {
         WA.room.hideLayer('doors/red_door_opened');
         WA.room.showLayer('doors/red_door_closed');
     }
-    if (nbBluePressed >= 2) {
+    if (nbBluePressed >= 1) {
         WA.room.showLayer('doors/blue_door_opened');
         WA.room.hideLayer('doors/blue_door_closed');
     } else {
