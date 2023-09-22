@@ -4,7 +4,7 @@ import { getMaps, getMapsOptimizers, getMapsScripts } from "wa-map-optimizer-vit
 const maps = getMaps();
 
 export default defineConfig({
-    base: "/EscapeShip/",
+    base: "./",
     build: {
         rollupOptions: {
             input: {
