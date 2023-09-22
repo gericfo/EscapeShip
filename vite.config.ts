@@ -4,11 +4,11 @@ import { getMaps, getMapsOptimizers, getMapsScripts } from "wa-map-optimizer-vit
 const maps = getMaps();
 
 export default defineConfig({
-    base: "./",
+    base: "gericfo.github.io/EscapeShip/",
     build: {
         rollupOptions: {
             input: {
-                index: "./index.html",
+                index: "gericfo.github.io/EscapeShip/index.html",
                 ...getMapsScripts(maps),
             },
         },
